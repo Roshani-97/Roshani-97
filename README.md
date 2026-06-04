@@ -19,7 +19,7 @@
 - Technical documentation
 - CMake & modern C++
 
-### GitLab(KDE)
+### Google Summer of Code 2026 Contributor at KDE
 - https://invent.kde.org/roshani
 
 ### Tools & Technologies I work upon
