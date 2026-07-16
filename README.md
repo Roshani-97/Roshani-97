@@ -8,6 +8,8 @@
 - Active in competitive programming (LeetCode, CodeChef)
 - Interested in open-source contributions
 
+### Google Summer of Code 2026 Contributor at KDE
+- https://invent.kde.org/roshani
   
 ###  Projects
 - **Familiar Care** – Python-based pet healthcare web app with AI-driven symptom analysis.
@@ -18,9 +20,6 @@
 - KDE ecosystem & large codebases
 - Technical documentation
 - CMake & modern C++
-
-### Google Summer of Code 2026 Contributor at KDE
-- https://invent.kde.org/roshani
 
 ### Tools & Technologies I work upon
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
