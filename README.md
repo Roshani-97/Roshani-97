@@ -14,6 +14,7 @@
 ###  Projects
 - **Familiar Care** – Python-based pet healthcare web app with AI-driven symptom analysis.
 - **Shield Her** – Women’s safety app with SOS alerts, live location sharing, and hands-free triggers.
+- **RepoMatrix.ai** – Flask-based GitHub commit analyzer that turns raw commit history into actionable insights.
 
 ###  Currently Learning
 - Open-source workflows (Git, GitLab)
